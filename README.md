@@ -1,6 +1,8 @@
 # fetchphotoinsta
 Fetch Photo from Instagram both hashtags and usernames
 
+éé It includes all the files that is necessary because some vendors are not supported anymore éé
+
 Depending on your connection speed, you can fetch 1-2k photos in 15 seconds!
 
 !Only works on Windows platforms!
